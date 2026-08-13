@@ -1,0 +1,116 @@
+[
+  {
+    "exam": "bo1-de1",
+    "num": 3,
+    "issue": "answer-fuzzy-match",
+    "score": 0.997,
+    "stem": "Điều lệnh nội vụ CAND quy định nhiệm vụ của cán bộ trực ban đơn vị như thế nào?",
+    "matchedMasterId": "q-039"
+  },
+  {
+    "exam": "bo1-de19",
+    "num": 12,
+    "issue": "stem-fuzzy-match",
+    "score": 0.994,
+    "stem": "Đồng chí A đang chỉ huy, hướng dẫn giao thông thì gặp đoàn xe của lãnh đạo Nhà nước có Cảnh sát giao thông dẫn đường đi ",
+    "matchedMasterId": "q-077"
+  },
+  {
+    "exam": "bo2-de10",
+    "num": 20,
+    "issue": "answer-fuzzy-match",
+    "score": 0.998,
+    "stem": "Thông tư số 04/2025/TT-BCA của Bộ Công an quy định về sửa đổi, bổ sung Điểm b, Khoản 1, Điều 33, Thông tư số 34/2019/TT-",
+    "matchedMasterId": "q-186"
+  },
+  {
+    "exam": "bo2-de13",
+    "num": 16,
+    "issue": "answer-fuzzy-match",
+    "score": 0.97,
+    "stem": "Đồng chí cho biết Điều lệnh đội ngũ CAND quy định tốc độ chạy đều là bao nhiêu?",
+    "matchedMasterId": "q-112"
+  },
+  {
+    "exam": "bo2-de15",
+    "num": 6,
+    "issue": "stem-not-found",
+    "stem": "Theo quy định tại Khoản 2, Điều 9, Thông tư số 32/2026/TT-BCA, ngày 07/4/2026 của Bộ Công an, quy định đối với đơn vị cấ"
+  },
+  {
+    "exam": "bo2-de17",
+    "num": 8,
+    "issue": "stem-not-found",
+    "stem": "Theo quy định tại Khoản 1, Điều 9, Thông tư số 32/2026/TT-BCA, ngày 07/4/2026 của Bộ Công an, quy định đối với đơn vị cấ"
+  },
+  {
+    "exam": "bo2-de18",
+    "num": 3,
+    "issue": "stem-not-found",
+    "stem": "Theo quy định tại Khoản 2, Điều 9, Thông tư số 32/2026/TT-BCA, ngày 07/4/2026 của Bộ Công an, quy định đối với đơn vị cấ"
+  },
+  {
+    "exam": "bo2-de1",
+    "num": 4,
+    "issue": "stem-not-found",
+    "stem": "Theo quy định tại Khoản 2, Điều 9, Thông tư số 32/2026/TT-BCA, ngày 07/4/2026 của Bộ Công an, quy định đối với đơn vị cấ"
+  },
+  {
+    "exam": "bo2-de1",
+    "num": 20,
+    "issue": "answer-fuzzy-match",
+    "score": 0.998,
+    "stem": "Thông tư số 04/2025/TT-BCA của Bộ Công an quy định về sửa đổi, bổ sung Điểm b, Khoản 1, Điều 33, Thông tư số 34/2019/TT-",
+    "matchedMasterId": "q-187"
+  },
+  {
+    "exam": "bo2-de20",
+    "num": 19,
+    "issue": "answer-fuzzy-match",
+    "score": 0.995,
+    "stem": "Thông tư số 04/2025/TT-BCA của Bộ Công an quy định về sửa đổi, bổ sung Điểm b, Khoản 1, Điều 33, Thông tư số 34/2019/TT-",
+    "matchedMasterId": "q-186"
+  },
+  {
+    "exam": "bo2-de2",
+    "num": 6,
+    "issue": "stem-not-found",
+    "stem": "Theo quy định tại Khoản 1, Điều 9, Thông tư số 32/2026/TT-BCA, ngày 07/4/2026 của Bộ Công an, quy định đối với đơn vị cấ"
+  },
+  {
+    "exam": "bo2-de4",
+    "num": 3,
+    "issue": "stem-not-found",
+    "stem": "Theo quy định tại Khoản 2, Điều 9, Thông tư số 32/2026/TT-BCA, ngày 07/4/2026 của Bộ Công an, quy định đối với đơn vị cấ"
+  },
+  {
+    "exam": "bo2-de5",
+    "num": 8,
+    "issue": "stem-not-found",
+    "stem": "Theo quy định tại Khoản 1, Điều 9, Thông tư số 32/2026/TT-BCA, ngày 07/4/2026 của Bộ Công an, quy định đối với đơn vị cấ"
+  },
+  {
+    "exam": "bo2-de5",
+    "num": 20,
+    "issue": "answer-fuzzy-match",
+    "score": 0.998,
+    "stem": "Thông tư số 04/2025/TT-BCA của Bộ Công an quy định về sửa đổi, bổ sung Điểm b, Khoản 1, Điều 33, Thông tư số 34/2019/TT-",
+    "matchedMasterId": "q-186"
+  },
+  {
+    "exam": "bo2-de6",
+    "num": 10,
+    "issue": "stem-fuzzy-match",
+    "score": 0.994,
+    "stem": "Đồng chí A đang chỉ huy, hướng dẫn giao thông thì gặp đoàn xe của lãnh đạo Nhà nước có Cảnh sát giao thông dẫn đường đi ",
+    "matchedMasterId": "q-077"
+  },
+  {
+    "exam": "bo2-de7",
+    "num": 11,
+    "issue": "stem-fuzzy-match",
+    "score": 0.994,
+    "stem": "Đồng chí A đang chỉ huy, hướng dẫn giao thông thì gặp đoàn xe của lãnh đạo Nhà nước có Cảnh sát giao thông dẫn đường đi ",
+    "matchedMasterId": "q-077"
+  }
+]
